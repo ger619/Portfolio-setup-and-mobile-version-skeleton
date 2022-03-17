@@ -15,7 +15,7 @@
   height: 20px;
   left: 12px;
   top: 10px;
-  font-family: Poppins;
+  font-family: 'poppins', sans-serif !important;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -46,7 +46,7 @@
   height: 150px;
   left: 24px;
   top: 114px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif !important;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -68,7 +68,7 @@
   height: 146px;
   left: 24px;
   top: 276px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif !important;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -90,7 +90,7 @@
   height: 24px;
   left: 0;
   top: 0;
-  font-family: 'poppins';
+  font-family: 'poppins', sans-serif !important;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -136,7 +136,7 @@
   height: 24px;
   left: 12px;
   top: 12px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif !important;
   font-style: normal;
   font-weight: 500;
   line-height: 24px;
