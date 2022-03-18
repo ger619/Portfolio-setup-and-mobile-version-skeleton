@@ -10,8 +10,7 @@
 > This project is about setting up a mobile version skeleton <
 
 # Screenshot
- [This is the interfaces](./images/screenshot.png)
- [This is the second interface](./images/screenshot2.png)
+ > This is the first [interface](./images/screenshot.png) and the second [interface](./images/screenshot2.png)<
 
 
 ## Built with
