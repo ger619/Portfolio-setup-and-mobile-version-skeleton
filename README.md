@@ -10,8 +10,7 @@
 > This project is about setting up a mobile version skeleton <
 
 # Screenshot
- [screenshot](./images/screenshot.png)
- [screenshot](./images/screenshot2.png)
+ [This is the interfaces](./images/screenshot.png),(./images/screenshot2.png)
 
 
 ## Built with
@@ -22,9 +21,9 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/ger619)
-- Twitter: [@twitterhandle](https://twitter.com/ger_abol)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-ger-426b4576/)
+- GitHub: [@ger619](https://github.com/ger619)
+- Twitter: [@abol_ger](https://twitter.com/ger_abol)
+- LinkedIn: [David Ger](https://www.linkedin.com/in/david-ger-426b4576/)
 
 
 ## Acknowledgments
